@@ -80,7 +80,7 @@
     "uuid": "^7.0.3"
   },
   "devDependencies": {
-    "@nestjs/cli": "^7.6.0",
+    "@nestjs/cli": "^10.3.2",
     "@nestjs/schematics": "^7.0.0",
     "@nestjs/testing": "^7.0.0",
     "@types/adm-zip": "^0.4.33",
